@@ -1,5 +1,5 @@
 # DH-MPavich
-Digital humanities project on books of Milorad Pavich: keywords and named entities extraction. 
+Digital humanities project on books of Milorad Pavich: keywords and named entities extraction.    
 Authors: E. Derzaeva (historical interpretation), M. Podryadchikova (text processing).
 
 Jupyter notebook: https://github.com/laidhimonthegreen/DH-MPavich/blob/master/pavich.ipynb
